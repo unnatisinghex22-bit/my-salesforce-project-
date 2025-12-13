@@ -1,2 +1,2 @@
 # my salesforce project 
-CRM Phase 1
+Smart Student Management CRM- Collage & Training Solution 
